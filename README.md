@@ -1,4 +1,4 @@
-# Simple EDA ![eda](/Photo/eda_pnh.png )
+# Simple EDA ![eda](/Photo/eda_pnh.png)
 In this demo I will show  how to create a module that will be called as function that will return an simple **Exploratory Data Analysis**.
 
 # Module Creation
